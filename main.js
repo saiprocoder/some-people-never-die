@@ -1,0 +1,1 @@
+alert ('Welcome To Some People Never Die website! Press OK To Continue')
